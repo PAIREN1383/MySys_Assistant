@@ -7,7 +7,7 @@ This assistant has voices and makes you feel better when using it.
 HINT: This program only run on windows. I will be happy if you create a new version for linux.
 
 Setup MySys Assistant:
-<br>
+
 Step 1: Open your terminal and install playsound.
 ```
 pip install playsound==1.2.2
