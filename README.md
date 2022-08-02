@@ -2,7 +2,7 @@
 This assistant is useful for all programmers who know and use Python. It's easy to use, just give MySys Assistant the paths of programs and folders to help you manage your programs.
 This assistant has voices and makes you feel better when using it.
 
-![image from assistant user interface](https://github.com/PAIREN1383/MySys_Assistant/blob/main/MySys%20Assistant.PNG)
+![image from assistant user interface](https://github.com/PAIREN1383/MySys_Assistant/blob/main/MySys_Assistant.PNG)
 
 HINT: This program only run on windows. I will be happy if you create a new version for linux.
 
