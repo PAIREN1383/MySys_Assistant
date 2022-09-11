@@ -14,7 +14,7 @@ pip install playsound==1.2.2
 ```
 
 - Step 2: Open "MySys Assistant.py" in code editor and complete paths and personalize the program.
-![image form paths](https://github.com/PAIREN1383/MySys_Assistant/blob/main/complet_it.PNG)
+![image form paths](https://github.com/PAIREN1383/MySys_Assistant/blob/main/complete_it.PNG)
 
 - Step 3: Find your "Startup" folder and copy "MySys Assistant.py" into it.
 You can convert "MySys Assistant.py" to executable file and use it.
