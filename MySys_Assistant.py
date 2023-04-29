@@ -113,7 +113,7 @@ def banner():
         \n[4] Gaming {Opening: Multiplayer Online Gaming Service(1) and Game(2)} \
         \n[5] Cleaning system {Opening: Defragment and Optimize Drives(1) and Folder of temporary files(2,3)} \
         \n[6] Social media {Opening: Messenger(1) and YouTube website(2)} \
-        \n[!] Tools {Opening: VPN app(71) and your ip info(72) IP WHOIS(73)}")
+        \n[!] Tools {Opening: VPN app(71), your ip info(72), IP WHOIS(73)}")
     # The voice that says choose.
     playsound(VoicesFolder + "Selection.mp3")
 
